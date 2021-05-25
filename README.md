@@ -1,10 +1,28 @@
-- 👋 Hi, I’m @alvantyler
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning javascript and tailwind css 
-- 💞️ I’m looking to collaborate on web application projects
-- 📫 How to reach me ...
+<h1>Hi, there ! </h1>
 
-<!---
-alvantyler/alvantyler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Alvan Murigu, a software developer based in Nairobi, Kenya currently learning Vue js and tailwind css. 
+
+
+<h2> Languages and Tools </h2>
+
+* HTML
+* CSS
+* JAVASCRIPT 
+* REACT
+* WORDPRESS
+* BOOTSTRAP
+* JAVA
+* GATSBY 
+* NETLIFY 
+
+
+
+
+
+
+<h2> STATS </h2>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvantyler&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvantyler)](https://github.com/alvantyler/github-readme-stats)
+
